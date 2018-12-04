@@ -9,6 +9,8 @@
 # * Ao final da execução, informe o faturamento total das vendas (em Reais), caso a viagem seja confirmada.
 # * Ao final da execução, informe se a viagem foi cancelada ou não.
 
+# python3.6
+
 # Declaração de Constantes
 POLTRONA_VAZIA = ''
 MEIA = 'MEIA'
